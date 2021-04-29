@@ -1,7 +1,7 @@
 This repository features a collision detection component for A-Frame that detects when an entity enters and leaves a space surrounding another entity. 
 
 How to Run: 
-1. Run the following command: `npm install && npm start`
+1. Run the following command in the command line while in the root folder of this project: `npm install && npm start`
 2. A new tab should open in your web broswer. Bypass permissions when prompted. 
 3. Open up the developer console to see output from the collision detection component.
 4. Use the arrows to move Buzz closer to the box, which the collision detection component is mounted on. When Buzz gets within a certain distance from the box, a collision has started and output is printed to the console. 
